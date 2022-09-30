@@ -4,11 +4,6 @@ import { Button } from 'primereact/button';
 
 export default class Busca extends Component {
 
-    constructor(props){
-        super(props)
-        console.log('constructor')
-    }
-
     state = {
         termoDeBusca: ''
     }
