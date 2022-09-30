@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "pexels": "^1.4.0",
     "primeflex": "^3.2.1",
     "primeicons": "^6.0.1",
     "primereact": "^8.6.0",
@@ -39,7 +40,9 @@
       "last 1 safari version"
     ]
   },
-    "react-dotenv" : {
-      "whitelist" : ["PEXELS_KEY"]
-    }
+  "react-dotenv": {
+    "whitelist": [
+      "PEXELS_KEY"
+    ]
+  }
 }
